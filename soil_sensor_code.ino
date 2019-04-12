@@ -34,8 +34,8 @@
 
 //Wifi network information
 
-  const char* ssid = "OnePlus5";
-  const char* password = "Op5_ReMo";
+  const char* ssid = "<InsertSSID>";
+  const char* password = "<InsertPassWord>";
   
   const char* host = "83.204.149.28";
 
